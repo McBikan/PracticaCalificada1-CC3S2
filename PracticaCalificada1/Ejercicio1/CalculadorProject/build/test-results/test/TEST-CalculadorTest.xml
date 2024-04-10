@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-10T19:34:36" hostname="DESKTOP-148L9KK" time="0.009">
+  <properties/>
+  <testcase name="testMult_PositiveNumbers_ShouldReturnCorrectMult()" classname="CalculadorTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
